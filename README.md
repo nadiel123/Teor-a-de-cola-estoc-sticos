@@ -1,1 +1,1 @@
-# Teor-a-de-cola-estoc-sticos
+# Teoria-de-cola-estocasticos
